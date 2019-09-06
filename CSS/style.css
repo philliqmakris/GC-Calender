@@ -1,0 +1,16 @@
+.navbar {
+    background-color: rgb(116, 13, 13);
+}
+
+body {
+    color: white;
+}
+
+.title {
+    color: white;
+}
+
+#month {
+    color: blue;
+    font-size: 30px;
+}
